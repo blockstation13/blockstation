@@ -2,7 +2,7 @@
 
 ## What?
 
-This is a fork of the /tg/station branch built specifically for the Blockland Forums. Feel free to make PRs and report issues as needed.
+This is a fork of the /tg/station branch that is not actually built specifically for the Blockland Forums, because they are smelly poo. Feel free to make PRs and report issues as needed.
 The server can be found at: fdhcjixaso not here yet
 
 It is (usually) up, save for updates.
